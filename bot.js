@@ -116,3 +116,5 @@ async function iniciarBots() {
 }
 
 iniciarBots(); 
+
+//FUTURAS MELHORIAS NO SISTEMA DE ANT-CAPTCHAS
